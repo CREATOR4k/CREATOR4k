@@ -34,7 +34,7 @@
 ### 📫 Как со мной связаться
 
 *   **GitHub:** [CREATOR4k](https://github.com/CREATOR4k)
-*   **Telegram:** [@твой_юзернейм](https://t.me)
+*   **Telegram:** (@Chypik_Chapik)
 *   **Email:** `твой_email@example.com`
 
 
