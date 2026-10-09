@@ -35,7 +35,7 @@
 
 *   **GitHub:** [CREATOR4k](https://github.com/CREATOR4k)
 *   **Telegram:** (@Chypik_Chapik)
-*   **Email:** `твой_email@example.com`
+*   **Email:** `vanak9850@gmail.com`
 
 
 
