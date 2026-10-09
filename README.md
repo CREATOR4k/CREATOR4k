@@ -7,7 +7,7 @@
 ### 🛠️ Мой стек технологий
 
 *   **Frontend:** HTML5, CSS3, JavaScript (ES6+), TypeScript
-*   **Фреймворки & Библиотеки:** React / Next.js / Vue.js *(оставь нужное)*
+*   **Фреймворки & Библиотеки:** React / Next.js / Vue.js 
 *   **Стилизация:** Tailwind CSS / SCSS / Styled Components
 *   **Инструменты & Сборка:** Git, Vite, Webpack, npm / yarn / pnpm
 
