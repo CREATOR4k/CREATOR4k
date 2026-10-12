@@ -1,55 +1,36 @@
-### Frontend & Web Developer 💻
-
-Ориентирован на создание современных, адаптивных и высокопроизводительных веб-интерфейсов. Люблю чистый код, продуманный UX/UI и новые технологии разработки.
+**Junior Developer** с фокусом на **Python** и **JavaScript**. Пишу бэкенд, умею собирать несложный фронтенд на React и упаковывать всё это в Docker. Ищу постоянную работу или стажировку.
 
 ---
 
-### 🛠️ Мой стек технологий
+### 🛠️ Стек и инструменты
 
-*   **Frontend:** HTML5, CSS3, JavaScript (ES6+), TypeScript
-*   **Фреймворки & Библиотеки:** React / Next.js / Vue.js 
-*   **Стилизация:** Tailwind CSS / SCSS / Styled Components
-*   **Инструменты & Сборка:** Git, Vite, Webpack, npm / yarn / pnpm
-
----
-
-### 🚀 Мои проекты и репозитории
-
-В моем профиле ты найдешь проекты, связанные с веб-разработкой:
-*   🕸️ Современные адаптивные лендинги и веб-приложения
-*   🧩 Кастомные UI-компоненты и интерактивные интерфейсы
-*   ⚙️ Оптимизация производительности фронтенда
+* **Languages:** Python, JavaScript, SQL
+* **Backend:** FastAPI, Django, Node.js (Express)
+* **Frontend:** React, HTML5, CSS3 / Tailwind
+* **Databases & DevOps:** PostgreSQL, Docker, Git, Linux (CLI)
 
 ---
 
-### 📈 Статистика GitHub
+### 📌 Мои пет-проекты
+
+> *Внутри каждого репозитория есть короткая инструкция по запуску.*
+
+* 🛠️ * *Стек:* FastAPI, PostgreSQL, SQLAlchemy, Docker.
+
+
+---
+
+### 📈 Статистика профиля
 
 <p align="left">
-  <img src="https://vercel.app" alt="CREATOR4k GitHub Stats" height="180px"/>
-  <img src="https://vercel.app" alt="Top Languages" height="180px"/>
+  <img src="https://vercel.app" alt="GitHub Stats" height="160" />
+  <img src="https://vercel.app" alt="Top Langs" height="160" />
 </p>
 
 ---
 
-### 📫 Как со мной связаться
+### 📫 Контакты для связи
 
-*   **GitHub:** [CREATOR4k](https://github.com/CREATOR4k)
-*   **Telegram:** (@Chypik_Chapik)
-*   **Email:** `vanak9850@gmail.com`
-
-
-
-<!--
-**CREATOR4k/CREATOR4k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **Telegram:** [@ваш_ник](https://t.me)
+* **LinkedIn:** [профиль](https://linkedin.com)
+* **Email:** email@example.com
