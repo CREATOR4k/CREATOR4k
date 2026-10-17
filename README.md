@@ -24,7 +24,7 @@
 
 <p align="left">
   <img src="https://github.com/CREATOR4k/CREATOR4k/blob/main/python.png" alt="CREATOR4k GitHub stats" height="160" />
-    &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+    &emsp;&emsp;&emsp;&emsp;&emsp;
   <img src="https://github.com/CREATOR4k/CREATOR4k/blob/main/typescript.png" alt="Top Langs" height="160" />
 </p>
 
