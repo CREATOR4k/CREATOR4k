@@ -32,4 +32,4 @@
 ### 📫 Контакты для связи
 
 * **Telegram:** [@Chypik_Chapik](https://web.telegram.org/k/#@script_zero_oxjs)
-* **Email:** (vanak9850@gmail.com)
+* **Email:** vanak9850@gmail.com
