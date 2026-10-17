@@ -24,7 +24,7 @@
 
 <p align="left">
   <img src="https://vercel.app](https://github.com/CREATOR4k/CREATOR4k/blob/main/typescript7.jpg](https://linuxiac.com/wp-content/uploads/2026/07/typescript7.jpg" alt="CREATOR4k GitHub stats" height="160" />
-  <img src="https://media.licdn.com/dms/image/v2/D5612AQHQ7DqizrIIdQ/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1669103206575?e=2147483647&v=beta&t=LMi1ZC2TVRDD2zDC8pnyS8OzPZ3fket-BS3J_Wx5-SA" alt="Top Langs" height="160" />
+  <img src="https://github.com/CREATOR4k/CREATOR4k/blob/main/typescript7.jpg" alt="Top Langs" height="160" />
 </p>
 
 ---
