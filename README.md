@@ -22,11 +22,11 @@
 
 ### 📈 Статистика профиля
 
-<div tyle="text-align: right;">
+<p align="right">
   <img src="https://github.com/CREATOR4k/CREATOR4k/blob/main/python.png" alt="CREATOR4k GitHub stats" height="160" />
 
   <img src="https://github.com/CREATOR4k/CREATOR4k/blob/main/typescript.png" alt="Top Langs" height="160" />
-</div>
+</p>
 
 ---
 
