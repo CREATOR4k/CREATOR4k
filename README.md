@@ -13,18 +13,17 @@
 
 ### 📌 Мои пет-проекты
 
-> *Внутри каждого репозитория есть короткая инструкция по запуску.*
+> *Внутри каждого репозитория есть короткая инструкся по запуску.*
 
-* 🛠️ * *Стек:* FastAPI, PostgreSQL, SQLAlchemy, Docker.
-
+* 🛠️ **Название проекта** — *Краткое описание проекта (например: API для управления задачами).*
+  * *Стек:* FastAPI, PostgreSQL, SQLAlchemy, Docker.
 
 ---
 
 ### 📈 Статистика профиля
 
 <p align="left">
-  [![Anurag's GitHub stats](https://github-stats-psiyavushs-projects.vercel.app/api?username=CREATOR4k)](https://github.com/psiyavush/github-stats)
-
+  <img src="https://vercel.app" alt="CREATOR4k GitHub stats" height="160" />
   <img src="https://vercel.app" alt="Top Langs" height="160" />
 </p>
 
@@ -34,4 +33,4 @@
 
 * **Telegram:** [@ваш_ник](https://t.me)
 * **LinkedIn:** [профиль](https://linkedin.com)
-* **Email:** email@example.com
+* **Email:** [ваша_почта@example.com](mailto:ВАША_ПОЧТА@example.com)
