@@ -21,18 +21,10 @@
 ---
 
 ### 📈 Статистика профиля
-
-<table width="100%" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td align="left">
-      <img src="https://github.com/CREATOR4k/CREATOR4k/blob/main/python.png" height="160" />
-    </td>
-    <td align="right">
-      <img src="https://github.com/CREATOR4k/CREATOR4k/blob/main/typescript.png" height="160" />
-    </td>
-  </tr>
-</table>
-
+<p align=center>
+ <img src="https://github.com/CREATOR4k/CREATOR4k/blob/main/python.png" alt="CREATOR4k GitHub stats" height="160" /> 
+ <img src="https://github.com/CREATOR4k/CREATOR4k/blob/main/typescript.png" alt="Top Langs" height="160" />
+ </p> 
 ---
 
 ### 📫 Контакты для связи
