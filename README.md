@@ -24,7 +24,7 @@
 
 <p align="left">
   <img src="https://vercel.app](https://github.com/CREATOR4k/CREATOR4k/blob/main/typescript7.jpg](https://linuxiac.com/wp-content/uploads/2026/07/typescript7.jpg" alt="CREATOR4k GitHub stats" height="160" />
-  <img src="https://github.com/CREATOR4k/CREATOR4k/blob/main/typescript7.jpg" alt="Top Langs" height="160" />
+  <img src="https://github.com/CREATOR4k/CREATOR4k/blob/main/typescript.png" alt="Top Langs" height="160" />
 </p>
 
 ---
