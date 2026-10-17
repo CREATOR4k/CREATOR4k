@@ -22,12 +22,16 @@
 
 ### 📈 Статистика профиля
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <img src="https://github.com/CREATOR4k/CREATOR4k/blob/main/python.png" height="160" />
-  <img src="https://github.com/CREATOR4k/CREATOR4k/blob/main/typescript.png" height="160" />
-</div>
-
-
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left">
+      <img src="https://github.com/CREATOR4k/CREATOR4k/blob/main/python.png" height="160" />
+    </td>
+    <td align="right">
+      <img src="https://github.com/CREATOR4k/CREATOR4k/blob/main/typescript.png" height="160" />
+    </td>
+  </tr>
+</table>
 
 ---
 
