@@ -24,7 +24,6 @@
 
 <p align="left">
   <img src="https://vercel.app" alt="CREATOR4k GitHub stats" height="160" />
- [![Anurag's GitHub stats](https://github-stats-psiyavushs-projects.vercel.app/apiCREATOR4K=anuraghazra)](https://github.com/psiyavush/github-stats)
   <img src="https://vercel.app" alt="Top Langs" height="160" />
 </p>
 
