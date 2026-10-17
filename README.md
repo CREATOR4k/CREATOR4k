@@ -23,7 +23,7 @@
 ### 📈 Статистика профиля
 
 <p align="left">
-  [![GitHub stats](https://vercel.app)](https://github.com)
+  [![Anurag's GitHub stats](https://github-stats-psiyavushs-projects.vercel.app/api??username=CREATOR4kanuraghazra)](https://github.com/psiyavush/github-stats)
 
   <img src="https://vercel.app" alt="Top Langs" height="160" />
 </p>
