@@ -31,5 +31,4 @@
 ### 📫 Контакты для связи
 
 * **Telegram:** [@Chypik_Chapik](https://web.telegram.org/k/#@script_zero_oxjs)
-* **LinkedIn:** [профиль](https://linkedin.com)
-* **Email:** [ваша_почта@example.com](mailto:ВАША_ПОЧТА@example.com)
+* **Email:** [vanak9850@gmail.com](vanak9850@gmail.com)
