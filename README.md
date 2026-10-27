@@ -8,6 +8,7 @@
 * **Backend:** FastAPI, Django, Node.js (Express)
 * **Frontend:** React, HTML5, CSS3 / Tailwind
 * **Databases & DevOps:** PostgreSQL, Docker, Git, Linux (CLI)
+* *Стек:* FastAPI, PostgreSQL, SQLAlchemy, Docker.
 
 ---
 
@@ -17,7 +18,6 @@
 
 * 🛠️ **CLI-Tool-V1** — *Простая и эффективная консольная утилита на Python для шифрования и дешифрования отдельных файлов или целых директорий (включая все вложенные папки) с использованием алгоритма AES-256.*
 * **Sin-project** — *Проект по вычислению синуса с минимальной погрешностью и минимальными затратами на ресурсы*
-* *Стек:* FastAPI, PostgreSQL, SQLAlchemy, Docker.
 
 ---
 
